@@ -123,3 +123,13 @@ OPHANIM (accept if input1 > input2) (51) by arandia
 METATRON (return input1+input2) (50) by ThirdParty
 
     ?lvl=31&code;=r11:11f2;p12:11f7;q12:12f2;b13:11f0;r8:10f2;y8:11f2;b8:13f2;b9:9f3;p9:10f7;q9:11f5;q9:12f3;p9:13f5;q10:8f7;p10:9f1;r10:10f1;g10:11f3;g10:12f0;r10:13f0;p11:8f5;b11:9f0;y12:7f3;q12:8f0;r6:2f2;y6:3f2;y6:4f1;p7:2f7;q7:3f5;q7:4f3;b7:5f2;b8:2f0;q9:4f7;r9:5f0;b10:4f2;r9:8f1;b8:7f2;g9:6f1;q9:7f1;g8:3f3;p8:4f3;q11:4f2;r11:5f1;q8:5f1;q8:12f5;q12:2f7;q12:3f7;q12:4f7;q12:5f7;q12:6f7;q12:9f7;q12:10f7;
+
+## Solutions using locked components
+
+LAMP (accept if contains at least three blues) (7)
+
+    ?lvl=3&code=p12:5f3;y11:5f2;c13:5f0;q12:6f2;q12:7f2;q12:8f2;c12:9f3;
+
+TANKS (accept if greater than 15) (11)
+
+    ?lvl=15&code=y11:5f2;c12:3f3;p12:4f2;p12:5f3;q12:6f2;q12:7f2;q12:8f2;q12:9f2;y13:5f0;c12:10f3;c12:11f3;
