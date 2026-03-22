@@ -76,9 +76,9 @@ POLICE (insert yellow in middle of string) (34) by ThirdParty
 
     ?lvl=19&code;=g12:2f3;y12:3f3;g12:4f3;q12:5f4;p11:5f2;r11:4f3;b11:6f1;c12:6f3;p12:7f3;b11:7f3;r13:7f3;c11:8f2;c13:8f0;y12:8f3;p12:9f3;r13:9f0;b11:9f2;c14:10f1;c14:9f1;c14:8f1;c14:7f1;c15:5f0;g13:5f0;q12:10f6;q12:12f6;p12:11f3;b11:11f1;r13:11f1;c11:10f2;c13:10f2;c14:5f0;p14:6f5;b13:6f1;r15:6f1;
 
-JUDICIARY (accept strings that repeat midway through) (50) by djpawl
+JUDICIARY (accept strings that repeat midway through) (48) by [viktoras25](https://github.com/viktoras25)
 
-    ?lvl=20&code;=g7:4f2;r7:5f2;q8:4f7;p8:5f1;r8:6f1;g8:7f1;c9:3f2;c9:4f1;b9:5f0;g9:6f1;c9:7f0;r9:10f3;p9:11f2;b9:12f1;r10:2f2;p10:3f2;b10:4f2;b10:5f2;q10:6f1;c10:7f0;p10:9f1;c10:10f1;q10:11f4;c10:12f1;c11:2f3;c11:3f3;y11:4f3;c11:5f3;p11:6f3;i11:7f6;q11:8f6;g11:9f3;c11:10f3;p11:11f3;q11:12f6;r12:5f0;q12:6f5;c12:7f0;p12:9f1;c12:10f1;q12:11f2;c12:12f1;c13:6f3;c13:7f0;r13:10f3;p13:11f4;b13:12f1;q11:13f3;g12:2f3;g12:3f0;
+    ?lvl=20&code=g12:10f3;c12:11f3;p12:12f3;p11:10f1;c11:11f1;q11:12f4;p13:10f1;c13:11f1;q13:12f2;b14:11f3;p14:12f0;r14:13f1;p10:12f6;r10:13f1;b10:11f3;p12:5f3;r13:5f3;b11:5f3;c11:6f2;c13:6f0;c12:6f3;p12:7f3;r13:7f3;b11:7f3;c13:8f0;i12:8f6;r9:9f2;p10:9f1;b11:9f0;c12:4f3;c9:8f1;p9:7f1;b10:7f1;r8:7f1;c10:6f0;c8:6f2;p9:5f1;r8:5f2;b10:5f0;c10:4f2;c11:4f2;g12:3f3;y12:2f3;q9:4f1;q12:9f2;q10:8f7;y11:8f0;g9:6f1;
 
 TEACHERS (accept X blues, X reds, X blues) (19) by djpawl
 
