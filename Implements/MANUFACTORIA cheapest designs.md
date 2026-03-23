@@ -134,3 +134,16 @@ TANKS (accept if greater than 15) (24230/11)
 
     ?lvl=15&code=y11:5f2;c12:3f3;p12:4f2;p12:5f3;q12:6f2;q12:7f2;q12:8f2;q12:9f2;y13:5f0;c12:10f3;c12:11f3;
 
+## Time issue
+
+Gocalf claims that time comparison doesn't worth much since a change of test cases breaks it. Yet,
+
+* It would unlikely get more update since flash is dead,
+* Manufactoria 2022 would carry updates if author has any new idea,
+* Current version basically test through all tape with length under or equal to 12, rather than just a few cases.
+
+Thus timing still somehow worth mentioned.
+
+----
+
+Some solutions above take more than 1 million cycles to complete all test cases, in which case the malevolence engine runs out of patience, just test the current case it's on(and sometimes another few) and claim your time as 1M cycle(16666:40). The actual time is filled for these solutions currently.
