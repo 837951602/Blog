@@ -126,11 +126,11 @@ METATRON (return input1+input2) (279030/50) by ThirdParty
 
 ## Solutions using locked components
 
-LAMP (accept if contains at least three blues) (7)
+LAMP (accept if contains at least three blues) (228893/7)
 
     ?lvl=3&code=p12:5f3;y11:5f2;c13:5f0;q12:6f2;q12:7f2;q12:8f2;c12:9f3;
 
-TANKS (accept if greater than 15) (11)
+TANKS (accept if greater than 15) (24230/11)
 
     ?lvl=15&code=y11:5f2;c12:3f3;p12:4f2;p12:5f3;q12:6f2;q12:7f2;q12:8f2;q12:9f2;y13:5f0;c12:10f3;c12:11f3;
 
