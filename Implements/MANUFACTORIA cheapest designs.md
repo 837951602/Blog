@@ -68,9 +68,9 @@ ANDROIDS (accept X blues, X reds) (63041/12) by various people independently
 
     ?lvl=17&code=c12:10f3;g12:4f3;c12:7f3;c12:8f3;c12:9f3;p12:6f7;i12:5f1;q13:4f1;p13:5f5;p13:6f2;b13:7f1;r14:5f0;
 
-CHILDREN (accept if equal number of blues as reds) (2216872/16) by 837951602
+CHILDREN (accept if equal number of blues as reds) (1455258/16) by 837951602
 
-    ?lvl=18&code=c12:10f3;c12:11f3;r11:5f2;g12:4f3;p12:5f3;q12:7f2;q12:8f0;p12:9f3;y13:4f0;q13:5f2;y13:6f1;r14:4f3;p14:5f0;b14:6f1;c12:6f3;y12:3f3;
+    ?lvl=18&code=c12:10f3;c12:11f3;r11:5f2;g12:4f3;p12:5f3;q13:5f2;r14:4f3;p14:5f0;b14:6f1;q13:4f1;g13:3f0;c12:3f3;q12:6f0;c12:9f3;q12:7f3;p12:8f3;
 
 POLICE (insert yellow in middle of string) (316158/34) by ThirdParty
 
@@ -84,9 +84,9 @@ TEACHERS (accept X blues, X reds, X blues) (80997/19) by djpawl
 
     ?lvl=21&code=c12:8f3;c12:9f3;c12:10f3;c12:11f3;c12:12f3;b10:2f3;p10:3f6;c11:2f2;q11:3f0;y12:2f3;i12:3f1;p12:4f7;c12:5f3;p13:3f5;p13:4f2;b13:5f1;r14:3f0;c12:6f3;c12:7f3;
 
-POLITICIANS (accept if contains twice as many blues as reds) (3874378/21) by 837951602
+POLITICIANS (accept if contains twice as many blues as reds) (2789521/21) by 837951602
 
-    ?lvl=22&code=g11:6f2;b12:4f3;r12:5f3;q12:6f3;g12:7f3;q12:8f3;p12:9f2;p12:10f0;q12:11f0;q12:12f3;b13:5f0;p13:6f2;b13:7f1;g14:5f3;q14:6f0;y14:7f1;p12:3f3;g11:3f2;y13:3f1;y13:2f0;c12:2f3;
+    ?lvl=22&code=c12:10f3;c12:11f3;p12:3f3;c12:2f3;g11:3f2;y13:3f1;y13:2f0;c12:4f3;b12:5f3;b13:4f0;p13:5f5;g11:6f2;q12:6f3;p13:6f6;q14:6f0;g14:5f3;y14:7f1;p12:7f4;p12:8f7;q12:9f3;c12:12f3;
 
 ACADEMICS (reverse the input) (227328/25) by ansicoder
 
