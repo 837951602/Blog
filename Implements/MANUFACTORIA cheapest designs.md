@@ -52,13 +52,13 @@ OFFICERS (add 1) (81580/19) by ThirdParty
 
     ?lvl=13&code=q12:3f3;c12:9f3;q13:4f2;q13:6f6;c14:5f0;c12:10f3;c12:11f3;c12:12f3;p13:5f6;b14:4f3;r14:6f1;g13:3f0;g12:4f3;c12:2f3;b13:7f0;c12:7f3;q12:8f3;r13:8f0;r12:5f2;
 
-GENERALS (subtract 1) (83712/18) by ThirdParty
+GENERALS (subtract 1) (81686/18) by [GoCalf](https://blog.gocalf.com/manufactoria)
 
-    ?lvl=14&code=q12:3f3;g13:3f0;p13:5f2;c14:5f0;q13:4f2;b14:6f1;r14:4f3;q13:6f6;c12:2f3;r13:7f0;c12:7f3;c12:9f3;c12:10f3;c12:11f3;c12:12f3;g12:4f2;q12:8f3;b13:8f0;
+    ?lvl=14&code=c12:10f3;c12:11f3;c12:12f3;c12:8f3;c12:9f3;r12:4f3;p13:5f2;r13:7f3;q13:8f4;b13:9f1;b12:6f1;c12:5f2;q13:4f0;q13:6f4;q12:2f7;y13:2f0;y12:3f3;c13:3f1;
 
-TANKS (accept if greater than 15) (20065/25) by DubiousMerit
+TANKS (accept if greater than 15) (19958/25) by [GoCalf](https://blog.gocalf.com/manufactoria)
 
-    ?lvl=15&code=c12:8f3;c12:11f3;p12:4f2;p12:5f3;c11:5f3;p12:7f3;c11:6f2;c12:6f3;c13:6f0;c11:7f3;c13:7f3;c13:8f0;c11:8f2;p12:9f3;c11:9f3;c13:9f3;c13:10f0;c12:10f0;c11:10f3;p11:11f3;c10:11f3;c10:12f2;i11:12f7;c12:3f3;c13:5f3;
+    ?lvl=15&code=c11:5f3;c13:5f3;c13:6f0;p11:11f3;c12:11f3;i11:12f7;c10:11f3;c10:12f2;p12:4f2;c12:3f3;c10:7f3;c10:8f2;c10:9f3;p11:7f3;c11:8f3;p11:9f3;c12:7f3;c12:8f0;c12:9f3;c12:10f0;c11:6f3;c12:6f0;c10:10f2;c11:10f3;p12:5f1;
 
 SPIES (accept powers of four) (57372/8) is obvious
 
@@ -76,7 +76,7 @@ POLICE (insert yellow in middle of string) (316158/34) by ThirdParty
 
     ?lvl=19&code=g12:2f3;y12:3f3;g12:4f3;q12:5f4;p11:5f2;r11:4f3;b11:6f1;c12:6f3;p12:7f3;b11:7f3;r13:7f3;c11:8f2;c13:8f0;y12:8f3;p12:9f3;r13:9f0;b11:9f2;c14:10f1;c14:9f1;c14:8f1;c14:7f1;c15:5f0;g13:5f0;q12:10f6;q12:12f6;p12:11f3;b11:11f1;r13:11f1;c11:10f2;c13:10f2;c14:5f0;p14:6f5;b13:6f1;r15:6f1;
 
-JUDICIARY (accept strings that repeat midway through) (310590/48) by [viktoras25](https://github.com/viktoras25)
+JUDICIARY (accept strings that repeat midway through) (310590/48) by [viktoras25](https://github.com/viktoras25/manufactoria-solutions/blob/master/levels/20-Judiciary.md)
 
     ?lvl=20&code=g12:10f3;c12:11f3;p12:12f3;p11:10f1;c11:11f1;q11:12f4;p13:10f1;c13:11f1;q13:12f2;b14:11f3;p14:12f0;r14:13f1;p10:12f6;r10:13f1;b10:11f3;p12:5f3;r13:5f3;b11:5f3;c11:6f2;c13:6f0;c12:6f3;p12:7f3;r13:7f3;b11:7f3;c13:8f0;i12:8f6;r9:9f2;p10:9f1;b11:9f0;c12:4f3;c9:8f1;p9:7f1;b10:7f1;r8:7f1;c10:6f0;c8:6f2;p9:5f1;r8:5f2;b10:5f0;c10:4f2;c11:4f2;g12:3f3;y12:2f3;q9:4f1;q12:9f2;q10:8f7;y11:8f0;g9:6f1;
 
@@ -92,7 +92,7 @@ ACADEMICS (reverse the input) (227328/25) by ansicoder
 
     ?lvl=23&code=c12:12f3;g12:2f3;c12:10f3;c12:11f3;r10:3f3;p10:4f2;b10:5f1;c11:3f2;q11:4f0;g11:5f0;b11:6f2;y12:3f3;p12:4f3;q12:5f0;p12:6f3;q12:7f2;c13:3f0;q13:4f6;g13:5f2;r13:6f0;b14:3f3;p14:4f0;r14:5f1;c12:8f3;c12:9f3;
 
-ENGINEERS (accept if symmetrical) (60964/21) by [viktoras25](https://github.com/viktoras25)+837951602
+ENGINEERS (accept if symmetrical) (60964/21) by [viktoras25](https://github.com/viktoras25/manufactoria-solutions/blob/master/levels/24-Engineers.md)+837951602
 
     ?lvl=24&code=c12:10f3;c11:2f2;p12:4f7;c12:7f3;q11:3f4;p11:4f2;r10:3f3;c10:4f2;b11:5f1;c12:8f3;c12:9f3;q12:5f6;p12:6f3;c12:11f3;c12:12f3;p13:2f4;r13:3f1;b13:1f3;c13:4f1;q12:2f7;g12:3f3;
 
