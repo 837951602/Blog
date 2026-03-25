@@ -72,13 +72,13 @@ CHILDREN (accept if equal number of blues as reds) (1455258/16) by 837951602
 
     ?lvl=18&code=c12:10f3;c12:11f3;r11:5f2;g12:4f3;p12:5f3;q13:5f2;r14:4f3;p14:5f0;b14:6f1;q13:4f1;g13:3f0;c12:3f3;q12:6f0;c12:9f3;q12:7f3;p12:8f3;
 
-POLICE (insert yellow in middle of string) (316158/34) by ThirdParty
+POLICE (insert yellow in middle of string) (564958/33) by 837951602
 
-    ?lvl=19&code=g12:2f3;y12:3f3;g12:4f3;q12:5f4;p11:5f2;r11:4f3;b11:6f1;c12:6f3;p12:7f3;b11:7f3;r13:7f3;c11:8f2;c13:8f0;y12:8f3;p12:9f3;r13:9f0;b11:9f2;c14:10f1;c14:9f1;c14:8f1;c14:7f1;c15:5f0;g13:5f0;q12:10f6;q12:12f6;p12:11f3;b11:11f1;r13:11f1;c11:10f2;c13:10f2;c14:5f0;p14:6f5;b13:6f1;r15:6f1;
+    ?lvl=19&code=y12:2f3;p12:3f7;b13:3f0;r11:3f2;g12:4f3;p12:8f7;r11:8f2;b13:8f0;q12:9f5;p10:9f6;c11:7f2;i11:10f7;q11:9f0;g12:5f3;b10:8f1;y12:10f1;r10:10f2;c14:7f0;c13:7f0;c11:11f3;y12:7f3;c10:7f2;c12:6f3;q15:7f5;p15:6f3;b14:6f2;r16:6f0;q14:8f2;g14:9f1;c15:8f1;c13:9f2;q11:13f5;c11:12f3;
 
-JUDICIARY (accept strings that repeat midway through) (310590/48) by [viktoras25](https://github.com/viktoras25/manufactoria-solutions/blob/master/levels/20-Judiciary.md)
+JUDICIARY (accept strings that repeat midway through) (599564/46) by 837951602
 
-    ?lvl=20&code=g12:10f3;c12:11f3;p12:12f3;p11:10f1;c11:11f1;q11:12f4;p13:10f1;c13:11f1;q13:12f2;b14:11f3;p14:12f0;r14:13f1;p10:12f6;r10:13f1;b10:11f3;p12:5f3;r13:5f3;b11:5f3;c11:6f2;c13:6f0;c12:6f3;p12:7f3;r13:7f3;b11:7f3;c13:8f0;i12:8f6;r9:9f2;p10:9f1;b11:9f0;c12:4f3;c9:8f1;p9:7f1;b10:7f1;r8:7f1;c10:6f0;c8:6f2;p9:5f1;r8:5f2;b10:5f0;c10:4f2;c11:4f2;g12:3f3;y12:2f3;q9:4f1;q12:9f2;q10:8f7;y11:8f0;g9:6f1;
+    ?lvl=20&code=y12:2f3;p12:3f7;b13:3f0;r11:3f2;c9:5f2;b9:6f1;p9:7f6;r9:8f2;c10:5f2;r10:6f2;q10:7f0;i10:8f7;g11:4f3;y11:5f3;p11:6f7;q11:7f5;y11:8f1;c12:5f0;b12:6f0;c12:7f2;b13:4f2;c13:5f0;q13:6f2;g13:7f1;p14:4f3;q14:5f5;c14:6f1;r15:4f0;g12:4f0;r8:9f3;p8:10f2;b8:11f1;q9:10f4;p10:10f3;q11:10f2;b12:9f3;p12:10f0;r12:11f1;y10:9f3;q10:11f1;i9:11f5;c11:11f3;p9:12f7;p11:12f7;y10:12f1;c11:13f2;
 
 TEACHERS (accept X blues, X reds, X blues) (80997/19) by djpawl
 
