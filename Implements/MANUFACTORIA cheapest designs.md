@@ -76,9 +76,9 @@ POLICE (insert yellow in middle of string) (544932/31) by 837951602
 
     ?lvl=19&code=c10:6f2;b10:7f1;p10:8f6;r10:9f2;c11:6f2;r11:7f2;q11:8f0;i11:9f7;y12:6f3;p12:7f7;q12:8f5;y12:9f1;b13:7f0;q11:10f3;c12:10f3;c12:11f3;c12:12f3;q14:8f6;c14:9f0;c13:9f0;g13:8f2;b12:5f2;p13:5f3;r14:5f0;q13:6f5;g12:2f2;g13:2f3;y13:3f3;y13:4f3;g14:6f0;c14:7f1;
 
-JUDICIARY (accept strings that repeat midway through) (576934/43) by 837951602
+JUDICIARY (accept strings that repeat midway through) (576682/43) by 837951602
 
-    ?lvl=20&code=g12:2f2;c11:5f2;b11:6f1;p11:7f6;r11:8f2;c12:5f2;r12:6f2;q12:7f0;i12:8f7;b13:4f2;y13:5f3;p13:6f7;q13:7f5;y13:8f1;y14:2f3;y14:3f3;p14:4f3;q14:5f5;b14:6f0;g14:7f2;c14:8f0;r15:4f0;g15:5f0;c15:6f1;q15:7f6;c15:8f0;g13:2f2;r10:11f3;p10:12f2;b10:13f1;p11:10f1;i11:11f4;q11:12f0;y12:10f3;q12:11f3;p12:12f3;p13:10f1;i13:11f0;q13:12f6;b14:11f3;p14:12f0;r14:13f1;q12:9f0;
+    ?lvl=20&code=g12:2f2;c11:5f2;b11:6f1;p11:7f6;r11:8f2;c12:5f2;r12:6f2;q12:7f0;i12:8f7;b13:4f2;y13:5f3;p13:6f7;q13:7f5;y13:8f1;y14:2f3;y14:3f3;p14:4f3;q14:5f5;b14:6f0;g14:7f2;c14:8f0;r15:4f0;g15:5f0;c15:6f1;q15:7f6;c15:8f0;g13:2f2;r10:11f3;p10:12f2;b10:13f1;p11:10f1;q11:12f0;y12:10f3;p12:12f3;p13:10f1;q13:12f6;b14:11f3;p14:12f0;r14:13f1;q12:9f0;c12:11f3;c11:11f1;c13:11f1;
 
 TEACHERS (accept X blues, X reds, X blues) (80997/19) by djpawl
 
