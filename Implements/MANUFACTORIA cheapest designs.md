@@ -72,13 +72,13 @@ CHILDREN (accept if equal number of blues as reds) (1455258/16) by 837951602
 
     ?lvl=18&code=c12:10f3;c12:11f3;r11:5f2;g12:4f3;p12:5f3;q13:5f2;r14:4f3;p14:5f0;b14:6f1;q13:4f1;g13:3f0;c12:3f3;q12:6f0;c12:9f3;q12:7f3;p12:8f3;
 
-POLICE (insert yellow in middle of string) (564958/33) by 837951602
+POLICE (insert yellow in middle of string) (544932/31) by 837951602
 
-    ?lvl=19&code=y12:2f3;p12:3f7;b13:3f0;r11:3f2;g12:4f3;p12:8f7;r11:8f2;b13:8f0;q12:9f5;p10:9f6;c11:7f2;i11:10f7;q11:9f0;g12:5f3;b10:8f1;y12:10f1;r10:10f2;c14:7f0;c13:7f0;c11:11f3;y12:7f3;c10:7f2;c12:6f3;q15:7f5;p15:6f3;b14:6f2;r16:6f0;q14:8f2;g14:9f1;c15:8f1;c13:9f2;q11:13f5;c11:12f3;
+    ?lvl=19&code=c10:6f2;b10:7f1;p10:8f6;r10:9f2;c11:6f2;r11:7f2;q11:8f0;i11:9f7;y12:6f3;p12:7f7;q12:8f5;y12:9f1;b13:7f0;q11:10f3;c12:10f3;c12:11f3;c12:12f3;q14:8f6;c14:9f0;c13:9f0;g13:8f2;b12:5f2;p13:5f3;r14:5f0;q13:6f5;g12:2f2;g13:2f3;y13:3f3;y13:4f3;g14:6f0;c14:7f1;
 
-JUDICIARY (accept strings that repeat midway through) (600866/45) by 837951602
+JUDICIARY (accept strings that repeat midway through) (576934/43) by 837951602
 
-    ?lvl=20&code=y12:2f3;p12:3f7;b13:3f0;r11:3f2;g11:4f3;g12:4f0;b14:4f2;p15:4f3;r16:4f0;r9:9f3;p9:10f2;b9:11f1;c10:5f2;b10:6f1;p10:7f6;r10:8f2;q10:10f4;i10:11f5;p10:12f7;c11:5f2;r11:6f2;q11:7f0;i11:8f7;y11:9f3;p11:10f3;q11:11f1;y11:12f1;y12:5f3;p12:6f7;q12:7f5;y12:8f1;q12:10f2;c12:11f3;p12:12f7;c13:5f0;b13:6f0;c13:7f2;b13:9f3;p13:10f0;r13:11f1;c14:5f0;q14:6f2;g14:7f1;q15:5f5;c15:6f1;
+    ?lvl=20&code=g12:2f2;c11:5f2;b11:6f1;p11:7f6;r11:8f2;c12:5f2;r12:6f2;q12:7f0;i12:8f7;b13:4f2;y13:5f3;p13:6f7;q13:7f5;y13:8f1;y14:2f3;y14:3f3;p14:4f3;q14:5f5;b14:6f0;g14:7f2;c14:8f0;r15:4f0;g15:5f0;c15:6f1;q15:7f6;c15:8f0;g13:2f2;r10:11f3;p10:12f2;b10:13f1;p11:10f1;i11:11f4;q11:12f0;y12:10f3;q12:11f3;p12:12f3;p13:10f1;i13:11f0;q13:12f6;b14:11f3;p14:12f0;r14:13f1;q12:9f0;
 
 TEACHERS (accept X blues, X reds, X blues) (80997/19) by djpawl
 
