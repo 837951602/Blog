@@ -120,9 +120,9 @@ OPHANIM (accept if input1 > input2) (111259/51) by arandia
 
     ?lvl=30&code=y12:2f3;r8:5f3;p8:6f2;b8:7f1;y9:5f2;q9:6f0;g9:7f1;b10:3f3;p10:4f6;r10:5f1;c10:6f0;c11:3f2;q11:4f0;g11:5f1;i11:6f0;y12:3f3;i12:4f6;c12:5f3;p12:6f7;c12:7f3;b13:4f0;y13:5f1;q13:6f6;g13:7f1;b14:5f3;p14:6f0;r14:7f1;c12:12f3;c12:11f3;q12:9f7;c12:8f3;b13:8f3;p13:9f6;r13:10f1;p13:11f0;b13:12f1;g14:9f3;q14:10f5;q14:11f5;y14:12f1;b15:9f3;p15:10f2;r15:11f3;p15:12f4;b15:13f1;r10:7f3;p10:8f2;b10:9f1;y11:7f1;q11:8f0;c11:9f1;
 
-METATRON (return input1+input2) (279030/50) by ThirdParty
+METATRON (return input1+input2) (205304/50) by 837951602
 
-    ?lvl=31&code=r11:11f2;p12:11f7;q12:12f2;b13:11f0;r8:10f2;y8:11f2;b8:13f2;b9:9f3;p9:10f7;q9:11f5;q9:12f3;p9:13f5;q10:8f7;p10:9f1;r10:10f1;g10:11f3;g10:12f0;r10:13f0;p11:8f5;b11:9f0;y12:7f3;q12:8f0;r6:2f2;y6:3f2;y6:4f1;p7:2f7;q7:3f5;q7:4f3;b7:5f2;b8:2f0;q9:4f7;r9:5f0;b10:4f2;r9:8f1;b8:7f2;g9:6f1;q9:7f1;g8:3f3;p8:4f3;q11:4f2;r11:5f1;q8:5f1;q8:12f5;q12:2f7;q12:3f7;q12:4f7;q12:5f7;q12:6f7;q12:9f7;q12:10f7;
+    ?lvl=31&code=c7:9f2;r7:10f1;b8:8f3;p8:9f0;q8:10f0;g8:11f2;c9:9f0;c9:10f1;q9:11f1;r10:9f2;y10:10f0;y10:11f2;b11:8f3;p11:9f7;q11:10f5;r11:11f3;p11:12f2;b11:13f1;r12:5f2;g12:6f2;r12:7f1;q12:8f4;c12:9f1;g12:10f0;c12:11f3;q12:12f2;p13:5f7;q13:6f1;y13:7f3;c13:8f3;b13:9f2;c13:10f0;r13:11f1;c13:12f1;b14:5f0;c14:6f3;p14:7f7;c14:8f2;p14:9f3;q14:10f1;b15:7f2;y15:8f3;r15:9f0;r16:7f3;g16:8f0;y12:3f3;g12:2f3;g13:4f3;y12:4f2;r15:10f0;
 
 ## Solutions using locked components
 
