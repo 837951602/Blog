@@ -120,9 +120,9 @@ OPHANIM (accept if input1 > input2) (111259/51) by arandia
 
     ?lvl=30&code=y12:2f3;r8:5f3;p8:6f2;b8:7f1;y9:5f2;q9:6f0;g9:7f1;b10:3f3;p10:4f6;r10:5f1;c10:6f0;c11:3f2;q11:4f0;g11:5f1;i11:6f0;y12:3f3;i12:4f6;c12:5f3;p12:6f7;c12:7f3;b13:4f0;y13:5f1;q13:6f6;g13:7f1;b14:5f3;p14:6f0;r14:7f1;c12:12f3;c12:11f3;q12:9f7;c12:8f3;b13:8f3;p13:9f6;r13:10f1;p13:11f0;b13:12f1;g14:9f3;q14:10f5;q14:11f5;y14:12f1;b15:9f3;p15:10f2;r15:11f3;p15:12f4;b15:13f1;r10:7f3;p10:8f2;b10:9f1;y11:7f1;q11:8f0;c11:9f1;
 
-METATRON (return input1+input2) (74060/45) by 837951602
+METATRON (return input1+input2) (410860/37) by [flagitious](https://tasvideos.org/Forum/Topics/9634?Highlight=237647&CurrentPage=4&PageSize=25&Sort=CreateTimestamp)
 
-    ?lvl=31&code=c12:6f3;p12:7f3;b11:6f2;r13:6f0;q11:7f1;q13:7f5;c14:8f0;q7:6f1;c8:5f3;p8:6f7;b9:5f0;q9:6f5;c9:7f0;q12:8f5;r7:4f2;c8:4f3;g6:6f1;c6:5f2;i7:5f3;q8:7f5;c7:7f3;g12:2f3;y12:3f3;y11:8f0;y7:8f2;b8:8f2;r10:8f0;p9:8f3;g13:8f0;c14:7f3;g10:7f0;g10:6f1;b10:5f2;c11:5f2;g12:5f3;c12:4f3;c12:11f3;c12:12f3;q12:10f2;c9:9f2;c10:9f2;c11:9f2;c12:9f3;c13:10f1;c13:9f1;
+    ?lvl=31&code=r10:3f2;p11:3f3;b12:3f0;g12:2f3;q11:4f3;g12:4f3;b9:7f2;g10:6f2;q10:7f5;r10:8f1;c11:5f2;p11:6f2;b11:7f3;q11:8f7;b11:9f2;r12:5f3;c12:6f3;c12:7f3;p12:8f3;q12:9f1;r13:5f2;g13:6f0;r13:7f0;q13:8f5;p14:5f7;q14:6f1;y14:7f1;g14:8f1;b15:5f0;y15:6f0;q13:9f7;c14:9f0;q12:11f0;p12:10f7;r13:10f0;b11:10f2;p12:12f2;
 
 ## Solutions using locked components
 
