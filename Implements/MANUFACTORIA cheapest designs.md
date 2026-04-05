@@ -92,9 +92,9 @@ ACADEMICS (reverse the input) (227328/25) by ansicoder
 
     ?lvl=23&code=c12:12f3;g12:2f3;c12:10f3;c12:11f3;r10:3f3;p10:4f2;b10:5f1;c11:3f2;q11:4f0;g11:5f0;b11:6f2;y12:3f3;p12:4f3;q12:5f0;p12:6f3;q12:7f2;c13:3f0;q13:4f6;g13:5f2;r13:6f0;b14:3f3;p14:4f0;r14:5f1;c12:8f3;c12:9f3;
 
-ENGINEERS (accept if symmetrical) (99598/20) by [TheRandomPie_IV](https://tasvideos.org/Forum/Topics/9634?Highlight=237647&CurrentPage=5&PageSize=25&Sort=CreateTimestamp)
+ENGINEERS (accept if symmetrical) (60964/20) by 837951602
 
-    ?lvl=24&code=c12:7f3;c12:8f3;c12:9f3;c12:10f3;c12:11f3;c12:12f3;c12:6f3;r11:1f3;p11:2f5;y12:2f3;c10:3f2;r10:4f1;i11:3f3;q11:4f0;c12:3f3;p12:4f3;c13:2f0;q13:3f0;b13:4f1;c12:5f3;
+    ?lvl=24&code=c12:10f3;c11:2f2;p12:4f7;c12:7f3;q11:3f4;p11:4f2;r10:3f3;c10:4f2;b11:5f1;c12:8f3;c12:9f3;q12:5f6;p12:6f3;c12:11f3;c12:12f3;b13:2f3;p13:3f4;r13:4f1;i12:3f1;g12:2f3;
 
 ROCKETS (swap blue for red and vice versa) (229374/7) is obvious
 
