@@ -48,13 +48,13 @@ SOLDIERS (multiply by 8) (65520/7) is obvious
 
     ?lvl=12&code=r12:4f3;r12:5f3;r12:6f3;c12:7f3;c12:9f3;c12:8f3;c12:10f3;
 
-OFFICERS (add 1) (81580/19) by ThirdParty
+OFFICERS (add 1) (134724/18) by [flagitious](https://golfscript.com/temp/records.html)
 
-    ?lvl=13&code=q12:3f3;c12:9f3;q13:4f2;q13:6f6;c14:5f0;c12:10f3;c12:11f3;c12:12f3;p13:5f6;b14:4f3;r14:6f1;g13:3f0;g12:4f3;c12:2f3;b13:7f0;c12:7f3;q12:8f3;r13:8f0;r12:5f2;
+    ?lvl=13&code=b12:9f3;b11:6f3;c11:7f2;r11:8f1;c12:3f3;g12:5f2;q12:6f4;p12:7f6;q12:8f0;q13:5f7;g13:6f3;c12:4f3;q12:12f3;r13:12f0;q12:11f0;b12:2f3;q12:10f0;r13:7f0;
 
-GENERALS (subtract 1) (81686/18) by [GoCalf](https://blog.gocalf.com/manufactoria)
+GENERALS (subtract 1) (81686/17) by [flagitious](https://golfscript.com/temp/records.html)
 
-    ?lvl=14&code=c12:10f3;c12:11f3;c12:12f3;c12:8f3;c12:9f3;r12:4f3;p13:5f2;r13:7f3;q13:8f4;b13:9f1;b12:6f1;c12:5f2;q13:4f0;q13:6f4;q12:2f7;y13:2f0;y12:3f3;c13:3f1;
+    ?lvl=14&code=c12:3f3;b11:12f2;q12:12f3;c12:10f3;c12:11f3;q12:6f6;p12:7f2;q12:8f2;r12:9f3;r13:6f3;c13:7f0;b13:8f1;c12:2f3;y12:4f2;q13:4f3;c13:5f3;y12:5f1;
 
 TANKS (accept if greater than 15) (19958/25) by [GoCalf](https://blog.gocalf.com/manufactoria)
 
@@ -84,7 +84,7 @@ TEACHERS (accept X blues, X reds, X blues) (80997/19) by djpawl
 
     ?lvl=21&code=c12:8f3;c12:9f3;c12:10f3;c12:11f3;c12:12f3;b10:2f3;p10:3f6;c11:2f2;q11:3f0;y12:2f3;i12:3f1;p12:4f7;c12:5f3;p13:3f5;p13:4f2;b13:5f1;r14:3f0;c12:6f3;c12:7f3;
 
-POLITICIANS (accept if contains twice as many blues as reds) (944974/21) by [TheRandomPie_IV](https://tasvideos.org/Forum/Topics/9634?Highlight=237647&CurrentPage=5&PageSize=25&Sort=CreateTimestamp)
+POLITICIANS (accept if contains twice as many blues as reds) (944974/20) by [Nix](https://golfscript.com/temp/records.html)
 
     ?lvl=22&code=c12:12f3;b10:6f3;p10:7f6;r10:8f1;y11:6f2;q11:7f4;c11:8f1;p11:9f0;r11:10f1;r12:3f3;b12:4f3;b12:5f3;p12:6f6;c12:7f3;g12:8f3;p12:9f3;q12:10f6;p12:11f3;r13:9f0;r12:2f3;
 
